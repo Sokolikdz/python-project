@@ -30,3 +30,5 @@ print('~~'*15)
 print(user.sendMsg('Треба вчити Пайтон', 80979259576, 80968347141))
 print('~~'*15)
 
+
+print('Sokolik')
